@@ -1,0 +1,16 @@
+C:\Users\TK\source\repos\RaspberryClientForms\RaspberryClientForms\bin\Debug\RaspberryClientForms.exe.config
+C:\Users\TK\source\repos\RaspberryClientForms\RaspberryClientForms\bin\Debug\RaspberryClientForms.exe
+C:\Users\TK\source\repos\RaspberryClientForms\RaspberryClientForms\bin\Debug\RaspberryClientForms.pdb
+C:\Users\TK\source\repos\RaspberryClientForms\RaspberryClientForms\obj\Debug\RaspberryClientForms.DoorUserControl.resources
+C:\Users\TK\source\repos\RaspberryClientForms\RaspberryClientForms\obj\Debug\RaspberryClientForms.Form1.resources
+C:\Users\TK\source\repos\RaspberryClientForms\RaspberryClientForms\obj\Debug\RaspberryClientForms.Properties.Resources.resources
+C:\Users\TK\source\repos\RaspberryClientForms\RaspberryClientForms\obj\Debug\RaspberryClientForms.StartUserControl.resources
+C:\Users\TK\source\repos\RaspberryClientForms\RaspberryClientForms\obj\Debug\RaspberryClientForms.TemperatureUserControl.resources
+C:\Users\TK\source\repos\RaspberryClientForms\RaspberryClientForms\obj\Debug\RaspberryClientForms.WindowUserControl.resources
+C:\Users\TK\source\repos\RaspberryClientForms\RaspberryClientForms\obj\Debug\RaspberryClientForms.csproj.GenerateResource.cache
+C:\Users\TK\source\repos\RaspberryClientForms\RaspberryClientForms\obj\Debug\RaspberryClientForms.csproj.CoreCompileInputs.cache
+C:\Users\TK\source\repos\RaspberryClientForms\RaspberryClientForms\obj\Debug\RaspberryClientForms.exe
+C:\Users\TK\source\repos\RaspberryClientForms\RaspberryClientForms\obj\Debug\RaspberryClientForms.pdb
+C:\Users\TK\source\repos\RaspberryClientForms\RaspberryClientForms\obj\Debug\RaspberryClientForms.csprojAssemblyReference.cache
+C:\Users\TK\source\repos\RaspberryClientForms\RaspberryClientForms\obj\Debug\RaspberryClientForms.GroupSettings.resources
+C:\Users\TK\source\repos\RaspberryClientForms\RaspberryClientForms\obj\Debug\RaspberryClientForms.Stats.resources
