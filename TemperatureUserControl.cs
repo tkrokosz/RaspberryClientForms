@@ -10,6 +10,9 @@ using System.Windows.Forms;
 using System.Net.Sockets;
 using System.Text.RegularExpressions;
 
+
+//copyright 2019 Tomasz Krokosz
+
 namespace RaspberryClientForms
 {
     public partial class TemperatureUserControl : UserControl

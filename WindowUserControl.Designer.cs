@@ -1,5 +1,6 @@
 ﻿namespace RaspberryClientForms
 {
+    //copyright 2019 Tomasz Krokosz
     partial class WindowUserControl
     {
         /// <summary> 
